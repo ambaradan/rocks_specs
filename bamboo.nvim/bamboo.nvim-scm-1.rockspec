@@ -9,7 +9,7 @@ package = "bamboo.nvim"
 version = modrev .. "-" .. specrev
 
 description = {
-	summary = "Dark green theme for Neovime",
+	summary = "Dark green theme for Neovim",
 	detailed = "",
 	labels = { "neovim" },
 	homepage = "https://github.com/ribru17/bamboo.nvim",
